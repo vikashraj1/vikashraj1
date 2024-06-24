@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Vikashhh
-- 👀 I’m interested in Automation
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Devops projects
+- 💞️ let's collaborate on Automation and Devops projects!
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/vikash-4981b620a)
 <!---
 vikashraj1/vikashraj1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
