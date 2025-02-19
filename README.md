@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vikashhh
+- 👋 Hi, I’m Vikash
 - 💞️ let's collaborate on Automation and Devops projects!
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/vikash-4981b620a)
 <!---
