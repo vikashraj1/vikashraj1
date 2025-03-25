@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
   <h1> Hi, I am <a href="https://github.com/vikashraj1">Vikash</a> 👋</h1>
@@ -10,12 +12,6 @@
   🕹️ _Everything is under control._
 
   <!-- 🕹️ _“Every defeat is a lesson—each fall makes you stronger.” ~ SIFU_ -->
-
-  <h2>📫 Reach Me</h2>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-4981b620a)
-
-
 
   <h2>💻 Tech Stack</h2>
 </div>
@@ -36,12 +32,20 @@
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus">
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx">
-</p>
-
----
 
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=vikash-mrm&abbreviated=true&style=flat-square)
+
+</div>
+
+</p>
+
+<div align="center">
+
+  <h2>📫 Reach Me</h2>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikash-4981b620a)
+
 
 </div>
